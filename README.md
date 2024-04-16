@@ -1,2 +1,2 @@
 # odin-csk
-Simple project for the odin project
+Simple project for the odin project.
